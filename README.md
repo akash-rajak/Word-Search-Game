@@ -37,16 +37,16 @@
 ****
 
 <p align="center">
-  <img width = 1000 src="Images/1.jpg" /><br>
-  <img width = 1000 src="Images/2.jpg" /><br>
-  <img width = 1000 src="Images/3.jpg" /><br>
-  <img width = 1000 src="Images/4.jpg" /><br>
-  <img width = 1000 src="Images/5.jpg" /><br>
-  <img width = 1000 src="Images/6.jpg" /><br>
-  <img width = 1000 src="Images/7.jpg" /><br>
-  <img width = 1000 src="Images/8.jpg" /><br>
-  <img width = 1000 src="Images/9.jpg" /><br>
-  <img width = 1000 src="Images/10.jpg" /><br>
+  <img width = 1000 src="Images/1.gif" /><br>
+  <img width = 1000 src="Images/2.gif" /><br>
+  <img width = 1000 src="Images/3.gif" /><br>
+  <img width = 1000 src="Images/4.gif" /><br>
+  <img width = 1000 src="Images/5.gif" /><br>
+  <img width = 1000 src="Images/6.gif" /><br>
+  <img width = 1000 src="Images/7.gif" /><br>
+  <img width = 1000 src="Images/8.gif" /><br>
+  <img width = 1000 src="Images/9.gif" /><br>
+  <img width = 1000 src="Images/10.gif" /><br>
 </p>
 
 ****
